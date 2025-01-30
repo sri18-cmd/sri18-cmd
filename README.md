@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHsSBLGLbD83w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732453317529?e=1738800000&v=beta&t=hz-VFIZjqi-ZhXcuSxYGklo1i_iwqOUyMLzlaP8r9VE)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEU_SZgFxiILw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738175426250?e=1743638400&v=beta&t=9cyn_L3O6RPGPCkeDUOgNOibGrIyIjX3nLyCLmlENkE)
 <h1 align="center">Hi 👋, I'm Sri Vasanth Vutukuri</h1>
 <h3 align="center">A passionate developer, I am an Aspiring Software Development Engineer and a Passionate Computer Science Student with a strong enthusiasm for AI/ML and Development Technologies. Currently pursuing my degree in Computer Science at Bennett University, I am committed to exploring innovative solutions and advancing my technical expertise from India.
 </h3> <img align="right"  alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/young-man-programmer-working-computer-code-screen-student-programming-vector-concept-man-work-computer-programmer-102846347.jpg">
